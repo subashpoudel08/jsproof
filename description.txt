@@ -1,0 +1,45 @@
+This JavaScript code simulates the process of minting NFTs (Non-Fungible Tokens) and managing their metadata. It includes three main functions:
+
+mintNFT: This function creates an NFT object with metadata properties such as name, eyeColor, shirtType, and bling. It then adds this NFT object to the nftCollection array, which stores all the NFTs.
+
+listNFTs: This function iterates through the nftCollection array and prints out the details of each NFT, including its name, eye color, shirt type, and bling, along with an index number to identify each NFT.
+
+getTotalSupply: This function returns the total number of NFTs in the nftCollection array by returning its length.
+
+The code then demonstrates the usage of these functions by minting four NFTs with different metadata values, listing all minted NFTs, and printing the total number of NFTs minted.
+
+Here's the output of the code when run:
+
+It lists the details of all four NFTs.
+It prints the total number of NFTs minted.
+
+
+
+
+OUTPUT :
+
+NFT #1:
+Name: Cool Cat
+Eye Color: Blue
+Shirt Type: T-Shirt
+Bling: Gold Chain
+-------------------------
+NFT #2:
+Name: Chill Dog
+Eye Color: Brown
+Shirt Type: Hoodie
+Bling: Silver Ring
+-------------------------
+NFT #3:
+Name: Funky Monkey
+Eye Color: Green
+Shirt Type: Tank Top
+Bling: Diamond Earring
+-------------------------
+NFT #4:
+Name: Stylish Elephant
+Eye Color: Grey
+Shirt Type: Sweater
+Bling: Platinum Watch
+-------------------------
+Total NFTs Minted: 4
