@@ -28,7 +28,7 @@ function getTotalSupply() {
 mintNFT("Cool Cat", "Blue", "T-Shirt", "Gold Chain");
 mintNFT("Chill Dog", "Brown", "Hoodie", "Silver Ring");
 mintNFT("Funky Monkey", "Green", "Tank Top", "Diamond Earring");
-mintNFT("Stylish Elephant", "Grey", "Sweater", "Platinum Watch");
+mintNFT("Stylish Elephant", "Grey", "Sweater", "Silver Watch");
 
 listNFTs();
 
